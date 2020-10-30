@@ -17,6 +17,11 @@ int calculaResta(int num1, int num2)
 	return resultado;
 }
 
+int calculaMult(int num1, int num2)
+{
+        return (num1*num2);
+}
+
 int main() {
 	
 	int num1, num2;
